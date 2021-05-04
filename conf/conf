@@ -1,0 +1,4 @@
+ip=192.168.6.121
+port=4000
+thread_num=4
+thread_size=10
