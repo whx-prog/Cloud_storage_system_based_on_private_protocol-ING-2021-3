@@ -1,4 +1,4 @@
-#include <My_head.h>
+#include "head.h"
 
 int tcp_init(char *ip,char *port,int *psfd)
 { //  ARGS_CHECK(argc,2);
