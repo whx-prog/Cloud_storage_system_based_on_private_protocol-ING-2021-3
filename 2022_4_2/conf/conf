@@ -1,0 +1,9 @@
+ip=192.168.14.130
+port=4000
+thread_num=4
+thread_size=10
+sever_name=localhost
+user_name=root
+user_password=123456
+database_name=bandu_wangpan
+
